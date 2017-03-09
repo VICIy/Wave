@@ -1,8 +1,9 @@
-package com.viciy.wave;
+package com.viciy.wave.mvp.presenter;
 
-import com.viciy.wave.base.BasePresenter;
+import com.viciy.wave.mvp.view.MainView;
+import com.viciy.wave.mvp.model.MeiNvResponse;
+import com.viciy.wave.mvp.base.BasePresenter;
 import com.viciy.wave.retrofit.ApiCallback;
-import com.viciy.wave.view.MainView;
 
 /**
  * Created by bai-qiang.yang on 2017/3/9.

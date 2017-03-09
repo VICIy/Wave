@@ -1,6 +1,6 @@
 package com.viciy.wave.retrofit;
 
-import com.viciy.wave.MeiNvResponse;
+import com.viciy.wave.mvp.model.MeiNvResponse;
 
 import retrofit2.http.GET;
 import retrofit2.http.Path;

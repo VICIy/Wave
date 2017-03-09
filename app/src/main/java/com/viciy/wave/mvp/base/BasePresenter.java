@@ -1,4 +1,4 @@
-package com.viciy.wave.base;
+package com.viciy.wave.mvp.base;
 
 import com.viciy.wave.retrofit.HttpApi;
 import com.viciy.wave.retrofit.RetrofitManager;

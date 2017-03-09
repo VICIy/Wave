@@ -1,11 +1,12 @@
 package com.viciy.wave;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
 
 import com.viciy.wave.base.BaseMvpActivity;
-import com.viciy.wave.view.MainView;
+import com.viciy.wave.mvp.presenter.MainPrenster;
+import com.viciy.wave.mvp.view.MainView;
+import com.viciy.wave.mvp.model.MeiNvResponse;
 
 import java.util.ArrayList;
 import java.util.List;

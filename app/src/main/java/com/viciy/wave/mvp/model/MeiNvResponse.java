@@ -1,4 +1,4 @@
-package com.viciy.wave;
+package com.viciy.wave.mvp.model;
 
 import java.util.List;
 

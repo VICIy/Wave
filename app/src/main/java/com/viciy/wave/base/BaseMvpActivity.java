@@ -6,6 +6,8 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
+import com.viciy.wave.mvp.base.BasePresenter;
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.viciy.wave.base;
+package com.viciy.wave.mvp.base;
 
 /**
  * Created by bai-qiang.yang on 2017/3/9.
